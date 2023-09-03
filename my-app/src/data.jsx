@@ -7,7 +7,8 @@ import {
   FaEnvelopeOpen,
   FaBriefcase,
   FaGraduationCap,
-  FaCode
+  FaCode,
+  FaFileImage
 } from 'react-icons/fa'
 
 export const links = [
@@ -189,5 +190,69 @@ export const resume = [
     year: '2018 -present',
     title: 'Full-stack <span>Envato</span>',
     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+  }
+]
+
+
+
+export const portfolio = [
+  {
+    id:1,
+    img:'work1',
+    title: 'Photo Editing',
+    details: [
+      {
+        
+        title: 'Project :',
+        desc: 'Photo'
+      },
+      {
+        
+        title: 'Project :',
+        desc: 'Photo'
+      },
+      {
+        
+        title: 'Project :',
+        desc: 'Photo'
+      },
+      {
+       
+        title: 'Project :',
+        desc: 'Photo'
+      },
+      {
+        
+        title: 'Project :',
+        desc: 'Photo'
+      },
+      {
+        id:2,
+        img:'work2',
+        title:'Website Design',
+        details: [
+          {
+            
+            title:'Project',
+            desc:'Website'
+          },
+          {
+            
+            title:'Project',
+            desc:'Website'
+          },
+          {
+            
+            title:'Project',
+            desc:'Website'
+          },
+          {
+            
+            title:'Project',
+            desc:'Website'
+          },
+        ]
+      }
+    ]
   }
 ]
