@@ -41,7 +41,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <div className="contact__social">
+        {/* <div className="contact__social">
           <a href="https://facebook.com" className="contact__social-link">
             <FaFacebookF/>
           </a>
@@ -54,7 +54,7 @@ const Contact = () => {
           <a href="https://facebook.com" className="contact__social-link">
             <FaFacebookF/>
           </a>
-        </div>
+        </div> */}
       </div>
 
       <form action="" className="contact__form">

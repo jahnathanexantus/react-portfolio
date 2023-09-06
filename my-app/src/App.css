@@ -18,13 +18,13 @@
     
     --big-font-size:56px;
     --h1-font-size:50px;
-    --h2-font-size:32;
-    --h3-font-size:24;
-    --large-font-size:18;
-    --normal-font-size:16;
-    --small-font-size:15;
-    --smaller-font-size:14;
-    --tiny-font-size:12;
+    --h2-font-size:32px;
+    --h3-font-size:24px;
+    --large-font-size:18px;
+    --normal-font-size:16px;
+    --small-font-size:15px;
+    --smaller-font-size:14px;
+    --tiny-font-size:12px;
     /* =========Font Weight============== */
 
 
@@ -65,6 +65,7 @@ h1,h2,h3,h4{
 
 ul {
     list-style: none;
+    padding-left: 0rem !important;
 }
 
 a{

@@ -61,8 +61,8 @@ export const personalInfo = [
   },
   {
     id: 5,
-    name: ' Address :',
-    description: ' 8171 Cloverglen Circle Olando, Fl 32818'
+    name: 'Location :',
+    description: '  Olando, Fl 32818'
   },
   {
     id: 6,
@@ -89,56 +89,56 @@ export const stats = [
   },
   {
     id: 2,
-    no: ' 5+ :',
-    title: ' Completed <br/> Projects'
+    no: ' 2+ :',
+    title: ' Happy <br/> Customers'
   },
   {
     id: 2,
-    no: ' 5+ :',
-    title: ' Completed <br/> Projects'
+    no: ' 1+ :',
+    title: ' Awards <br/> Won'
   }
 ]
 
 export const skills = [
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
+    title: 'Javascript',
+    percentage: '90'
+  },
+  {
+    id: 1,
+    title: 'Css',
+    percentage: '85'
   },
   {
     id: 1,
     title: 'html',
-    percentage: '25'
+    percentage: '97'
   },
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
+    title:'noSQL',
+    percentage: '87'
   },
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
+    title: 'SQL',
+    percentage: '88'
   },
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
+    title: 'REST',
+    percentage: '90'
   },
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
+    title: 'MERN',
+    percentage: '79'
   },
   {
     id: 1,
-    title: 'html',
-    percentage: '25'
-  },
-  {
-    id: 1,
-    title: 'html',
-    percentage: '25'
+    title: 'React',
+    percentage: '95'
   }
 ]
 
@@ -147,7 +147,7 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2018 -present',
+    year: '2022 -present',
     title: 'Full-stack <span>Envato</span>',
     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
   },
