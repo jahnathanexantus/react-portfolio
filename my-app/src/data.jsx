@@ -24,12 +24,12 @@ export const links = [
     icon: <FaUser className='nav__icon' />,
     path: '/about'
   },
-  {
-    id: 3,
-    name: 'Portfolio',
-    icon: <FaFolderOpen className='nav__icon' />,
-    path: '/portfolio'
-  },
+  // {
+  //   id: 3,
+  //   name: 'Portfolio',
+  //   icon: <FaFolderOpen className='nav__icon' />,
+  //   path: '/portfolio'
+  // },
   {
     id: 4,
     name: 'Contact',
@@ -142,56 +142,56 @@ export const skills = [
   }
 ]
 
-export const resume = [
-  {
-    id: 1,
-    category: 'experience',
-    icon: <FaBriefcase />,
-    year: '2022 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  },
-  {
-    id: 2,
-    category: 'experience',
-    icon: <FaBriefcase />,
-    year: '2018 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  },
-  {
-    id: 3,
-    category: 'experience',
-    icon: <FaBriefcase />,
-    year: '2018 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  },
-  {
-    id: 4,
-    category: 'education',
-    icon: <FaBriefcase />,
-    year: '2018 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  },
-  {
-    id: 5,
-    category: 'education',
-    icon: <FaBriefcase />,
-    year: '2018 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  },
-  {
-    id: 6,
-    category: 'education',
-    icon: <FaBriefcase />,
-    year: '2018 -present',
-    title: 'Full-stack <span>Envato</span>',
-    desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
-  }
-]
+// export const resume = [
+//   {
+//     id: 1,
+//     category: 'experience',
+//     icon: <FaBriefcase />,
+//     year: '2022 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   },
+//   {
+//     id: 2,
+//     category: 'experience',
+//     icon: <FaBriefcase />,
+//     year: '2018 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   },
+//   {
+//     id: 3,
+//     category: 'experience',
+//     icon: <FaBriefcase />,
+//     year: '2018 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   },
+//   {
+//     id: 4,
+//     category: 'education',
+//     icon: <FaBriefcase />,
+//     year: '2018 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   },
+//   {
+//     id: 5,
+//     category: 'education',
+//     icon: <FaBriefcase />,
+//     year: '2018 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   },
+//   {
+//     id: 6,
+//     category: 'education',
+//     icon: <FaBriefcase />,
+//     year: '2018 -present',
+//     title: 'Full-stack <span>Envato</span>',
+//     desc: 'lorem ipsum kajg;kenf ;akjdgh;akejhf dafjgadfjgka slkgjs;kjg kjg'
+//   }
+// ]
 
 
 

@@ -4,8 +4,8 @@ import Stats from '../../components/Stats'
 import { FaDownload } from 'react-icons/fa'
 import './about.css'
 import Skills from '../../components/Skills'
-import { resume } from '../../data'
-import ResumeItem from '../../components/ResumeItem'
+// import { resume } from '../../data'
+// import ResumeItem from '../../components/ResumeItem'
 // import CV from '../../assets'
 
 const About = () => {
@@ -48,7 +48,7 @@ const About = () => {
 
       <div className="separator"></div>
 
-      <section className="resume">
+      {/* <section className="resume">
       <h3 className="section__subtitle  subtitle__center">
         Experience & Education
         </h3>
@@ -70,7 +70,7 @@ const About = () => {
             })}
           </div>
         </div>
-      </section>
+      </section> */}
     </main>
   )
 }
